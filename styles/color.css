@@ -1,0 +1,31 @@
+body {
+    color: grey;
+    background-color: grey;
+}
+a:link {
+    color:white;
+    background-color: ;
+}
+a:visited {
+    color: white;
+    background-color: ;
+}
+a:hover {
+    color: white;
+    background-color: ;
+}
+a:active {
+    color: white;
+    background-color: ;
+}
+header {
+
+}
+header nav {
+    color: white;
+    background-color: #282826;
+}
+article {
+    color: black;
+    background-color: white;
+}

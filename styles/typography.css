@@ -1,0 +1,24 @@
+body {
+    font-size: 76%;
+    font-family: "Adobe Garamond Pro";
+}
+body * {
+    font-size: 1em;
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+header nav {
+    font-family: "Adobe Garamond Pro";
+}
+article {
+    line-height: 1.8em;
+}
+article p {
+    margin: 1em 0;
+}
+h1 {
+    font-family: "Adobe Garamond Pro";
+    font: 2.4em normal;
+}
